@@ -1,0 +1,20 @@
+# Required
+
+scheme: sftp
+
+host: shadac.org
+
+username: phubbell
+
+password: BVhgUY87
+
+
+#optional
+
+path: /var/www/shadac6.dev/public/fmap_test
+
+exclude:
+	- .gitignore
+	- .git
+	- dandelion.yml
+	
